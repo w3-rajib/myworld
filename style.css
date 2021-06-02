@@ -1,0 +1,43 @@
+@import url ('https://fonts.googleais.com/css?family=open+sans:250,300,400,500,600,700,800,&dispay=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: 'open sans',sans-serif;
+}
+body
+{
+    background-color: #f2f3f7;
+}
+.body
+{
+    width: 240px;
+    margin: auto;
+    background: #f2f3f7;
+}
+.btn
+{
+    background-color: #f2f3f7;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+a button
+{
+    width: 230px;
+    height: 88px;
+    background-color: #f2f3f7;
+    color: #000000;
+    margin-top: 40px;
+    font-size: 27px;
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 14px 14px 18px #d9dad4,
+                        -8px -8px 30px #ffffff;
+}
+button:hover
+{
+    background-color: #000000;
+    color: #ffffff;
+}
